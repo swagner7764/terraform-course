@@ -1,4 +1,4 @@
 resource "aws_ecr_repository" "myapp" {
-  name = "myapptest-twotwo"
+  name = "terraform-test"
 }
 
